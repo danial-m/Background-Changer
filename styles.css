@@ -1,0 +1,43 @@
+.button1{
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 20px;
+    background-color: yellow;
+    cursor: pointer;
+}
+
+.button2{
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 20px;
+    background-color: rgb(209, 45, 45);
+    cursor: pointer;
+}
+
+.button3{
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 20px;
+    background-color: #4a4aaf;
+    cursor: pointer;
+}
+
+.button4{
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 20px;
+    background-color: #ffffff;
+    cursor: pointer;
+}
+
+.button5{
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 20px;
+    background-color: rgb(134, 35, 134);
+    cursor: pointer;
+}
+
+.center{
+    padding-top: 200px;
+}
